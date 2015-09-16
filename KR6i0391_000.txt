@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說溫室洗浴眾僧經
+#+DATE: 2015-08-30 20:17:55.085428
+#+PROPERTY: JUAN 0
