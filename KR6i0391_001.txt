@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:54.888398
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:26
 #+TITLE: 佛說溫室洗浴眾僧經
 #+PROPERTY: CBETA_ID T16n0701
 #+PROPERTY: ID KR6i0391
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 701
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0391_T_000-0802c>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0391_T_001-0802c> ¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.701¶
-
- 《佛說溫室洗浴眾僧經》¶
+No. 701¶
+《佛說溫室洗浴眾僧經》¶
 ¶
 後漢安息三藏安世高譯¶
 
@@ -42,7 +41,7 @@ No.701¶
 
 「佛告醫王：『善哉，妙意！治眾人病，皆蒙除愈，¶
 遠近慶賴，莫不歡喜。今復請佛及諸眾¶
-僧，入溫室洗浴，願及十方眾藥療病，洗¶
+僧，入〔溫〕－【三】〔溫〕－【宋】【元】【明】溫室溫室洗浴，願及十方眾藥療病，洗¶
 浴除垢，其福無量。一心諦聽，吾當為汝先¶
 說澡浴眾僧反報之福！』
 
@@ -156,9 +155,9 @@ No.701¶
 　眾僧之聖尊，
 　四道良福田，¶
 　道德從中出，
-　是行最妙真。』
+　是行最妙真。』」
 #+END_VERSE
-」¶
+¶
 
 「佛說偈已，重告耆域：『觀彼三界，人天品類，¶
 高下長短，福德多少，皆由先世用心不等，是¶
